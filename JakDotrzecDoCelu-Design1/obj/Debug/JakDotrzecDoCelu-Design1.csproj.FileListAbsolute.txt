@@ -1,0 +1,28 @@
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\bin\Debug\JakDotrzecDoCelu-Design1.exe.config
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\bin\Debug\JakDotrzecDoCelu-Design1.exe
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\bin\Debug\JakDotrzecDoCelu-Design1.pdb
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1.csprojResolveAssemblyReference.cache
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\obj\Debug\MainWindow.g.cs
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\obj\Debug\App.g.cs
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1_MarkupCompile.cache
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1_MarkupCompile.lref
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\obj\Debug\MainWindow.baml
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1.g.resources
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu_Design1.Properties.Resources.resources
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1.csproj.GenerateResource.Cache
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1.exe
+c:\users\sabina\documents\visual studio 2015\Projects\JakDotrzecDoCelu-Design1\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1.pdb
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\bin\Debug\JakDotrzecDoCelu-Design1.exe.config
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1.exe
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1.pdb
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\bin\Debug\JakDotrzecDoCelu-Design1.exe
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\bin\Debug\JakDotrzecDoCelu-Design1.pdb
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1.csprojResolveAssemblyReference.cache
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\obj\Debug\MainWindow.g.cs
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\obj\Debug\App.g.cs
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1_MarkupCompile.cache
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1_MarkupCompile.lref
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\obj\Debug\MainWindow.baml
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1.g.resources
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu_Design1.Properties.Resources.resources
+C:\Users\filipek\Downloads\JakDotrzecdoCelu-WPF-master\JakDotrzecdoCelu-WPF-master\JakDotrzecDoCelu-Design1\obj\Debug\JakDotrzecDoCelu-Design1.csproj.GenerateResource.Cache

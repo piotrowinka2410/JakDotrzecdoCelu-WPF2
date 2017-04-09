@@ -1,0 +1,49 @@
+﻿<Window x:Class="JakDotrzecDoCelu_Design1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JakDotrzecDoCelu_Design1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ComboBox x:Name="cmb_StartStop" HorizontalAlignment="Left" Margin="23,22,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="content_SelectionChanged"/>
+        <ComboBox x:Name="cmb_FinalStop" HorizontalAlignment="Left" Margin="23,110,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="connent1_Copy_SelectionChanged"/>
+        <ComboBox x:Name="cmb_NumberLine" HorizontalAlignment="Left" Margin="23,204,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="connent1_Copy1_SelectionChanged"/>
+        <CheckBox x:Name="checkBox" Content="Unikaj przesiadek" HorizontalAlignment="Left" Margin="373,246,0,0" VerticalAlignment="Top" Background="#FF3C9CC9"/>
+        <Button x:Name="connent_Copy2" Content="Gotowe! " HorizontalAlignment="Left" Margin="411,275,0,0" VerticalAlignment="Top" Width="75" Background="#FF3EBCD8" Opacity="0.7"/>
+        <Label x:Name="contain_NumberLine" Content="Wybrano" HorizontalAlignment="Left" Margin="23,231,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.11,0.492" Height="36" Width="234">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.074"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="contain_FinalStop" Content="Wybrano" HorizontalAlignment="Left" Margin="21,138,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.11,0.492" Height="36" Width="241">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.23"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="contain_StartStop" Content="Wybrano" HorizontalAlignment="Left" Margin="21,45,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.11,0.492" Height="36" Width="236">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.251"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="label" Content="Najbliższa godzina odjazdu to:" HorizontalAlignment="Left" Margin="277,204,0,0" VerticalAlignment="Top" Width="209"/>
+        <Calendar HorizontalAlignment="Left" Margin="277,23,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
